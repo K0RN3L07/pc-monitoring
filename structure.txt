@@ -1,0 +1,22 @@
+pc-monitor/
+├── src/
+│   ├── main/
+│   │   ├── main.js
+│   │   ├── system.js
+│   │   └── ipc.js
+│   │
+│   ├── renderer/
+│   │   ├── index.html
+│   │   ├── css/
+│   │   │   └── style.css
+│   │   └── js/
+│   │       ├── app.js
+│   │       ├── dashboard.js
+│   │       └── charts.js
+│   │
+│   └── shared/
+│       └── constants.js
+│
+├── assets/
+├── package.json
+└── README.md
